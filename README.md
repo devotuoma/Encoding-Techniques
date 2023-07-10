@@ -1,2 +1,2 @@
 # Encoding-Techniques
-Encoding is required
+Encoding is required when you want to encode something.
